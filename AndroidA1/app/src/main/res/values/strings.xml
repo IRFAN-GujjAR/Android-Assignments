@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Feet to Inches</string>
+    <string name="enter_height_in_ft">Enter height in ft</string>
+    <string name="convert_to_inches">Convert to Inches</string>
+    <string name="required">Required</string>
+</resources>
